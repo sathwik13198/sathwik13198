@@ -14,7 +14,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=sathwik13198&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/sathwik13198?label=Followers&style=for-the-badge&color=00D9FF" alt="followers" />
-  <img src="https://img.shields.io/badge/CGPA-8.9%2F10-00D9FF?style=for-the-badge" alt="cgpa" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-00D9FF?style=for-the-badge" alt="focus" />
 </p>
 
